@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.csv
+*.zip
+*.tar.gz
+.venv-pinn/
